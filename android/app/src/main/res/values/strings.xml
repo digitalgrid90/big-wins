@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Big Wins</string>
+
+    <string name="brand_title">BIG WINS</string>
+    <string name="brand_subtitle">CITY FESTIVAL CONTROL</string>
+    <string name="brand_line_one">BIG</string>
+    <string name="brand_line_two">WINS</string>
+    <string name="splash_loading">LOADING SITE PLAN</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="back">BACK</string>
+    <string name="resume">RESUME</string>
+    <string name="upgrades">UPGRADES</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="commit_block">GO LIVE</string>
+    <string name="next_block">GO NEXT</string>
+    <string name="spend_permits">SPEND PERMITS</string>
+    <string name="hold_reserve">HOLD IN RESERVE</string>
+
+    <string name="menu_best">BEST %1$s</string>
+    <string name="menu_tagline">SIX BLOCKS · FOUR ZONES · ONE WEEKEND</string>
+    <string name="menu_hint">ALLOCATE CREWS · ANSWER INCIDENTS · READ THE CROWD</string>
+    <string name="stat_festivals">FESTIVALS</string>
+    <string name="stat_best_grade">BEST GRADE</string>
+    <string name="disclaimer">18+ · STRATEGY SIMULATION · NO REAL MONEY</string>
+
+    <string name="scale_city_block">CITY BLOCK</string>
+    <string name="scale_district">DISTRICT</string>
+    <string name="scale_metro">METRO</string>
+
+    <string name="zone_main_stage">MAIN STAGE</string>
+    <string name="zone_food_court">FOOD COURT</string>
+    <string name="zone_transit_gate">TRANSIT GATE</string>
+    <string name="zone_plaza_market">PLAZA MARKET</string>
+
+    <string name="res_volunteers">VOL</string>
+    <string name="res_power">PWR</string>
+    <string name="res_transport">TRN</string>
+    <string name="res_stage">STG</string>
+
+    <string name="weather_clear">CLEAR</string>
+    <string name="weather_drizzle">DRIZZLE</string>
+    <string name="weather_heat">HEAT</string>
+    <string name="weather_storm">STORM</string>
+
+    <string name="block_1">FRI 18:00</string>
+    <string name="block_2">FRI 21:00</string>
+    <string name="block_3">SAT 14:00</string>
+    <string name="block_4">SAT 19:00</string>
+    <string name="block_5">SUN 13:00</string>
+    <string name="block_6">SUN 20:00</string>
+    <string name="block_header">%1$s · BLOCK %2$d / %3$d</string>
+    <string name="next_weather">NEXT: %1$s</string>
+
+    <string name="hud_buzz">BUZZ %1$s</string>
+    <string name="hud_reserve">RESERVE %1$d</string>
+    <string name="hud_permits">PERMITS %1$d</string>
+    <string name="tag_fatigue">FATIGUE</string>
+    <string name="full_house">FULL HOUSE</string>
+    <string name="intermission">BLOCK %1$d DELIVERED · +%2$d PERMITS</string>
+
+    <string name="pause_title">PRODUCTION HOLD</string>
+    <string name="pause_body">The site is waiting. Nothing moves until you release the hold.</string>
+
+    <string name="branch_free">RIDE IT OUT · FREE</string>
+    <string name="branch_cost">PAY %1$d %2$s FROM RESERVE</string>
+    <string name="branch_no_reserve">NOT ENOUGH IN RESERVE</string>
+    <string name="incident_hint">ANSWERS ARE PAID OUT OF THE RESERVE</string>
+
+    <string name="incident_power_dip_title">VOLTAGE SAG</string>
+    <string name="incident_power_dip_body">The main rig is browning out mid set and the lighting desk keeps resetting itself.</string>
+    <string name="incident_gate_crush_title">PRESSURE AT THE GATE</string>
+    <string name="incident_gate_crush_body">Two shuttles arrived at once and the queue is folding back onto the street.</string>
+    <string name="incident_rain_front_title">RAIN FRONT INBOUND</string>
+    <string name="incident_rain_front_body">A squall line is twenty minutes out and half the market stalls are still open to the sky.</string>
+    <string name="incident_stage_delay_title">HEADLINER RUNNING LATE</string>
+    <string name="incident_stage_delay_body">The headline act is stuck in traffic and the crowd in front of the riser is restless.</string>
+    <string name="incident_vendor_rush_title">LATE VENDOR RUSH</string>
+    <string name="incident_vendor_rush_body">Three food trucks offer to open a second service line if you can staff and power them.</string>
+    <string name="incident_crowd_surge_title">SURPRISE CROWD WAVE</string>
+    <string name="incident_crowd_surge_body">A viral clip pulled an extra thousand guests toward the plaza in the last half hour.</string>
+
+    <string name="outcome_completed">GATES CLOSED, LIGHTS UP</string>
+    <string name="outcome_evacuated">SITE EVACUATED</string>
+    <string name="final_grade">FINAL GRADE</string>
+    <string name="new_best">NEW BEST FESTIVAL</string>
+    <string name="ledger_satisfaction">GUEST SATISFACTION</string>
+    <string name="ledger_blocks">BLOCKS DELIVERED</string>
+    <string name="ledger_efficiency">RESOURCE EFFICIENCY</string>
+    <string name="ledger_incidents">INCIDENTS RESOLVED</string>
+    <string name="ledger_buzz">PEAK BUZZ</string>
+    <string name="ledger_permits">PERMITS UNSPENT</string>
+    <string name="ledger_best">CAREER BEST</string>
+
+    <string name="grade_a">A</string>
+    <string name="grade_b">B</string>
+    <string name="grade_c">C</string>
+    <string name="grade_d">D</string>
+
+    <string name="branch_logistics">LOGISTICS</string>
+    <string name="branch_power">POWER</string>
+    <string name="branch_crew">CREW</string>
+
+    <string name="upgrade_shuttle_loop">SHUTTLE LOOP</string>
+    <string name="upgrade_shuttle_loop_effect">Two more transport units every block</string>
+    <string name="upgrade_night_routes">NIGHT ROUTES</string>
+    <string name="upgrade_night_routes_effect">Late shuttles soften a starved gate</string>
+    <string name="upgrade_park_and_ride">PARK AND RIDE</string>
+    <string name="upgrade_park_and_ride_effect">One extra slot held in reserve</string>
+    <string name="upgrade_second_generator">SECOND SET</string>
+    <string name="upgrade_second_generator_effect">Two more power units every block</string>
+    <string name="upgrade_cable_audit">CABLE AUDIT</string>
+    <string name="upgrade_cable_audit_effect">Power answers cost one unit less</string>
+    <string name="upgrade_lamp_grid">LAMP GRID</string>
+    <string name="upgrade_lamp_grid_effect">Four bonus points on a full house</string>
+    <string name="upgrade_volunteer_hq">VOLUNTEER HQ</string>
+    <string name="upgrade_volunteer_hq_effect">Two more crew units every block</string>
+    <string name="upgrade_shift_rotation">SHIFT ROTATION</string>
+    <string name="upgrade_shift_rotation_effect">Crews tire one block later</string>
+    <string name="upgrade_stage_managers">RISER MANAGERS</string>
+    <string name="upgrade_stage_managers_effect">One more riser slot every block</string>
+
+    <string name="node_owned">OWNED</string>
+    <string name="node_cost">%1$d PERMITS</string>
+    <string name="node_locked">LOCKED</string>
+    <string name="notice_locked">FINISH THE NODE ABOVE FIRST</string>
+    <string name="notice_expensive">NOT ENOUGH PERMITS YET</string>
+    <string name="notice_owned">ALREADY IN SERVICE</string>
+    <string name="notice_no_permits">NO PERMITS YET — DELIVER BLOCKS TO EARN THEM</string>
+
+    <string name="step_one">1</string>
+    <string name="step_two">2</string>
+    <string name="step_three">3</string>
+    <string name="step_four">4</string>
+    <string name="howto_allocate_title">ALLOCATE</string>
+    <string name="howto_allocate_body">Pick a zone card, then use minus and plus to assign crew, power, transport and riser time.</string>
+    <string name="howto_reserve_title">HOLD A RESERVE</string>
+    <string name="howto_reserve_body">Units you leave unassigned move into the reserve. Incident answers are paid from there.</string>
+    <string name="howto_commit_title">RUN THE BLOCK</string>
+    <string name="howto_commit_body">Covered zones lift guest satisfaction. Starved zones pull it down, and zero ends the weekend.</string>
+    <string name="howto_build_title">BUILD</string>
+    <string name="howto_build_body">Permits earned from well run blocks buy upgrades that raise your caps for the rest of the weekend.</string>
+    <string name="howto_closing">THE WEEKEND IS SIX BLOCKS LONG · SATISFACTION AT ZERO ENDS IT EARLY</string>
+
+    <string name="cd_logo">Festival emblem</string>
+    <string name="cd_selected">Selected</string>
+    <string name="cd_not_selected">Not selected</string>
+    <string name="cd_owned">Owned</string>
+    <string name="cd_available">Available</string>
+    <string name="cd_locked">Locked</string>
+    <string name="cd_pause">Hold the production</string>
+    <string name="cd_pause_menu">Open the production panel</string>
+    <string name="cd_increase">Assign one unit</string>
+    <string name="cd_decrease">Release one unit</string>
+    <string name="cd_satisfaction">Guest satisfaction %1$d percent</string>
+</resources>
